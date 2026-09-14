@@ -8,6 +8,8 @@ Martin Rivera Arias
 
 ESte es un taller de git para repasar para el parcial.
 
-##Aprendizajes
+## Aprendizajes
 
 Control de versiones =)
+Gestión de la configuración
+GitHub como repositorio remoto
